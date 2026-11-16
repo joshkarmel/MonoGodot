@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://djogbhowqbri"
+
+[deps]
+
+files=["res://Card Master List - DataTable(2).name.translation", "res://Card Master List - DataTable(2).card.translation", "res://Card Master List - DataTable(2).CardNation.translation", "res://Card Master List - DataTable(2).CardGuild.translation", "res://Card Master List - DataTable(2).CardClass.translation", "res://Card Master List - DataTable(2).Grade.translation", "res://Card Master List - DataTable(2).ATK.translation", "res://Card Master List - DataTable(2).DEF.translation", "res://Card Master List - DataTable(2).Range.translation", "res://Card Master List - DataTable(2).MoveRange.translation", "res://Card Master List - DataTable(2).Artist.translation", "res://Card Master List - DataTable(2).Rarity.translation", "res://Card Master List - DataTable(2).CardImage.translation", "res://Card Master List - DataTable(2).Eff1.translation", "res://Card Master List - DataTable(2).Eff2.translation", "res://Card Master List - DataTable(2).Eff3.translation", "res://Card Master List - DataTable(2).Notifier1.translation", "res://Card Master List - DataTable(2).Notifier2.translation", "res://Card Master List - DataTable(2).Notifier3.translation", "res://Card Master List - DataTable(2).Loc1.translation", "res://Card Master List - DataTable(2).Loc2.translation", "res://Card Master List - DataTable(2).Loc3.translation"]
+
+source_file="res://Card Master List - DataTable(2).csv"
+dest_files=["res://Card Master List - DataTable(2).name.translation", "res://Card Master List - DataTable(2).card.translation", "res://Card Master List - DataTable(2).CardNation.translation", "res://Card Master List - DataTable(2).CardGuild.translation", "res://Card Master List - DataTable(2).CardClass.translation", "res://Card Master List - DataTable(2).Grade.translation", "res://Card Master List - DataTable(2).ATK.translation", "res://Card Master List - DataTable(2).DEF.translation", "res://Card Master List - DataTable(2).Range.translation", "res://Card Master List - DataTable(2).MoveRange.translation", "res://Card Master List - DataTable(2).Artist.translation", "res://Card Master List - DataTable(2).Rarity.translation", "res://Card Master List - DataTable(2).CardImage.translation", "res://Card Master List - DataTable(2).Eff1.translation", "res://Card Master List - DataTable(2).Eff2.translation", "res://Card Master List - DataTable(2).Eff3.translation", "res://Card Master List - DataTable(2).Notifier1.translation", "res://Card Master List - DataTable(2).Notifier2.translation", "res://Card Master List - DataTable(2).Notifier3.translation", "res://Card Master List - DataTable(2).Loc1.translation", "res://Card Master List - DataTable(2).Loc2.translation", "res://Card Master List - DataTable(2).Loc3.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="DataTable" format=3 uid="uid://cn4vvww5kece3"]
+
+[ext_resource type="Script" uid="uid://cc0pg7r07cyli" path="res://node_3d_struct.gd" id="1_x8oh5"]
+[ext_resource type="Script" uid="uid://cp0etb2q5t7p4" path="res://addons/GodotDataTables/core/data_table.gd" id="2_hulm8"]
+
+[sub_resource type="Resource" id="Resource_x8oh5"]
+script = ExtResource("1_x8oh5")
+
+[resource]
+script = ExtResource("2_hulm8")
+row_schema = SubResource("Resource_x8oh5")
