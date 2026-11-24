@@ -17,3 +17,7 @@ mono_crash.*.json
 
 Plugins/
 addons/
+addons/*
+addons/*/*
+addons/*/*/*
+addons/*/*/*/*
