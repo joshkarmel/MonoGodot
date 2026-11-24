@@ -9,4 +9,5 @@
 script = ExtResource("1_0e48y")
 
 [node name="Sprite2D" type="Sprite2D" parent="Node2D" unique_id=1327408267]
+position = Vector2(1, -4)
 texture = ExtResource("2_epypp")

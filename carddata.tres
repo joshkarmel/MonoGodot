@@ -8,740 +8,1555 @@ script = ExtResource("1_133ty")
 
 [sub_resource type="Resource" id="Resource_133ty"]
 script = ExtResource("1_133ty")
-name = &"x"
-card_type = &"sd"
-card_nation = &"sda"
-card_guild = "asdfg"
-card_class = "safas"
-grade = "fsaf"
-atk = "1223"
+name = &"Auroreon Floutist"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_fj7yp"]
 script = ExtResource("1_133ty")
+name = &"Auroreon Disciple"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_7mgcm"]
 script = ExtResource("1_133ty")
+name = &"Auroreon Avatar"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_c3vix"]
 script = ExtResource("1_133ty")
+name = &"Lunar Festival"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_a01jb"]
 script = ExtResource("1_133ty")
+name = &"Shifu Hara"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_vsbhp"]
 script = ExtResource("1_133ty")
+name = &"Shimmering Creek"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_wi7cx"]
 script = ExtResource("1_133ty")
+name = &"Sky Maestro"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_h8ttn"]
 script = ExtResource("1_133ty")
+name = &"Strike Squad"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_in6ks"]
 script = ExtResource("1_133ty")
+name = &"Summer Wave"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_pkoto"]
 script = ExtResource("1_133ty")
+name = &"Dark Legion Disciple"
+card_type = &"Catalyst"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_f2pif"]
 script = ExtResource("1_133ty")
+name = &"Divine Sun King"
+card_type = &"Catalyst"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_o06rq"]
 script = ExtResource("1_133ty")
+name = &"The Soul of the Sun"
+card_type = &"Catalyst"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_ml2nv"]
 script = ExtResource("1_133ty")
+name = &"Elysium Guard"
+card_type = &"Unit"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_0tff0"]
 script = ExtResource("1_133ty")
+name = &"Elysium Soldier"
+card_type = &"Unit"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_hojlp"]
 script = ExtResource("1_133ty")
+name = &"Elysium Mage"
+card_type = &"Unit"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_gxn8i"]
 script = ExtResource("1_133ty")
+name = &"Ghost Frigate"
+card_type = &"Monolith"
+card_nation = &"Maxar"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_drqdj"]
 script = ExtResource("1_133ty")
+name = &"Seven Gates Armory"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_0iwat"]
 script = ExtResource("1_133ty")
+name = &"Shadow of War"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_k074j"]
 script = ExtResource("1_133ty")
+name = &"Surge of Salvation"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_qdoio"]
 script = ExtResource("1_133ty")
+name = &"The Crystal Keep"
+card_type = &"Monolith"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_ft7dr"]
 script = ExtResource("1_133ty")
+name = &"Armored Armory"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_3qupu"]
 script = ExtResource("1_133ty")
+name = &"Express Exit"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_88q0y"]
 script = ExtResource("1_133ty")
+name = &"Global Resupplier"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_ekxfn"]
 script = ExtResource("1_133ty")
+name = &"Infinite Epoch"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_y18cv"]
 script = ExtResource("1_133ty")
+name = &"Logistics Hub"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_a1dlt"]
 script = ExtResource("1_133ty")
+name = &"Nomads Cathedral"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_fhvil"]
 script = ExtResource("1_133ty")
+name = &"Ravensmoon Baroness"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_6dyxv"]
 script = ExtResource("1_133ty")
+name = &"Storm Rider"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_copyt"]
 script = ExtResource("1_133ty")
+name = &"Stray Swordsking"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_mvhjl"]
 script = ExtResource("1_133ty")
+name = &"Verdant Ressurection"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_ngfpy"]
 script = ExtResource("1_133ty")
+name = &"Watcher of the Marshes"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_td67u"]
 script = ExtResource("1_133ty")
+name = &"Instant Decompression"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_dp1q6"]
 script = ExtResource("1_133ty")
+name = &"Enchantment Stockpile"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_wkind"]
 script = ExtResource("1_133ty")
+name = &"Actinium Mechanization"
+card_type = &"Catalyst"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_33fcx"]
 script = ExtResource("1_133ty")
+name = &"Actinium Subsurface"
+card_type = &"Catalyst"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_4lj6k"]
 script = ExtResource("1_133ty")
+name = &"Actinium Diaspora"
+card_type = &"Catalyst"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_wj6f1"]
 script = ExtResource("1_133ty")
+name = &"Hazerunner"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_k23lw"]
 script = ExtResource("1_133ty")
+name = &"Rangerunner"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_60j7a"]
 script = ExtResource("1_133ty")
+name = &"Submaxillary"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_gsuj6"]
 script = ExtResource("1_133ty")
+name = &"Blockrunner"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_2kg4e"]
 script = ExtResource("1_133ty")
+name = &"Supply Request"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_gxes1"]
 script = ExtResource("1_133ty")
+name = &"The Hivemind"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_j4pfr"]
 script = ExtResource("1_133ty")
+name = &"The Remenant"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_54y1a"]
 script = ExtResource("1_133ty")
+name = &"The Hallowed"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_iso4h"]
 script = ExtResource("1_133ty")
+name = &"Port Actinium"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_p0sd7"]
 script = ExtResource("1_133ty")
+name = &"Dynamic Gateway"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_hnjm7"]
 script = ExtResource("1_133ty")
+name = &"Undersea Highway"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_iegpy"]
 script = ExtResource("1_133ty")
+name = &"Interception"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_3266v"]
 script = ExtResource("1_133ty")
+name = &"Sudden Sunshower"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_6odxr"]
 script = ExtResource("1_133ty")
+name = &"Stranded Homestead"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_2e3od"]
 script = ExtResource("1_133ty")
+name = &"Prismatic Shield"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_1alki"]
 script = ExtResource("1_133ty")
+name = &"Eye of Awakening"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_3vqmt"]
 script = ExtResource("1_133ty")
+name = &"Tailrarium Mermaid"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_xwgim"]
 script = ExtResource("1_133ty")
+name = &"Origami Archbird"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_gkuuf"]
 script = ExtResource("1_133ty")
+name = &"Cursed Wand"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_gg2ht"]
 script = ExtResource("1_133ty")
+name = &"Greatsword"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_g3150"]
 script = ExtResource("1_133ty")
+name = &"Colossal Cannon"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_nv850"]
 script = ExtResource("1_133ty")
+name = &"Energy Shift"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_q6nk1"]
 script = ExtResource("1_133ty")
+name = &"Stormfront"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_vdkbn"]
 script = ExtResource("1_133ty")
+name = &"Mechanized Menace"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_n8c8v"]
 script = ExtResource("1_133ty")
+name = &"Hallowed Ground"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_piugw"]
 script = ExtResource("1_133ty")
+name = &"The Horizon"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_jmvrv"]
 script = ExtResource("1_133ty")
+name = &"Grantortois Sage"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_1enuf"]
 script = ExtResource("1_133ty")
+name = &"The Sovreign of Divinity"
+card_type = &"Unit"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_3klo6"]
 script = ExtResource("1_133ty")
+name = &"Chalice of the Void"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_visuw"]
 script = ExtResource("1_133ty")
+name = &"Goddess of Autumn"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_dt4m7"]
 script = ExtResource("1_133ty")
+name = &"Eagle Eye"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_yd54o"]
 script = ExtResource("1_133ty")
+name = &"The Other Lands"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_acl0h"]
 script = ExtResource("1_133ty")
+name = &"Songs of the Void"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_0b878"]
 script = ExtResource("1_133ty")
+name = &"The Hivemind"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_74kf4"]
 script = ExtResource("1_133ty")
+name = &"Strike Squad"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_hoitr"]
 script = ExtResource("1_133ty")
+name = &"Elysium Guard"
+card_type = &"Unit"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_th3rr"]
 script = ExtResource("1_133ty")
+name = &"Nomads Cathedral"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_uy0ko"]
 script = ExtResource("1_133ty")
+name = &"Armored Armory"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_rwkb2"]
 script = ExtResource("1_133ty")
+name = &"Express Exit"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_sohur"]
 script = ExtResource("1_133ty")
+name = &"Hallowed Ground"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_3ckt4"]
 script = ExtResource("1_133ty")
+name = &"Interception"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_x1d8y"]
 script = ExtResource("1_133ty")
+name = &"Songs of the Void"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_nhk82"]
 script = ExtResource("1_133ty")
+name = &"Dark Legion Desciple"
+card_type = &"Catalyst"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_07ow0"]
 script = ExtResource("1_133ty")
+name = &"Surge of Salvation"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_8v5bo"]
 script = ExtResource("1_133ty")
+name = &"Auroreon Disciple"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_1jlhb"]
 script = ExtResource("1_133ty")
+name = &"Grantortois Sage"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_eit4v"]
 script = ExtResource("1_133ty")
+name = &"Summer Wave"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_vubq6"]
 script = ExtResource("1_133ty")
+name = &"Hazerunner"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_srv26"]
 script = ExtResource("1_133ty")
+name = &"Supply Request"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_jwfwc"]
 script = ExtResource("1_133ty")
+name = &"The Horizon"
+card_type = &"Monolith"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_rhmek"]
 script = ExtResource("1_133ty")
+name = &"Reinforcements"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_daouf"]
 script = ExtResource("1_133ty")
+name = &"Heavenly Gift"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_hugv6"]
 script = ExtResource("1_133ty")
+name = &"Skylite Sailer"
+card_type = &"Catalyst"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_71fi3"]
 script = ExtResource("1_133ty")
+name = &"Soul of Retribution"
+card_type = &"Catalyst"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_gyn4w"]
 script = ExtResource("1_133ty")
+name = &"Skylite Token"
+card_type = &"Token"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_63s6e"]
 script = ExtResource("1_133ty")
+name = &"Wavecrasher Token"
+card_type = &"Token"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_abkes"]
 script = ExtResource("1_133ty")
+name = &"Celestial Witness"
+card_type = &"Monolith"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_l2bm8"]
 script = ExtResource("1_133ty")
+name = &"Celestial Halo"
+card_type = &"Monolith"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_u0sah"]
 script = ExtResource("1_133ty")
+name = &"End of the Line"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_lmykr"]
 script = ExtResource("1_133ty")
+name = &"Skylite Signal"
+card_type = &"Monolith"
+card_nation = &"Brigantine"
+card_guild = "Skylite"
 
 [sub_resource type="Resource" id="Resource_h723y"]
 script = ExtResource("1_133ty")
+name = &"Sari-Cobo"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_mdvgj"]
 script = ExtResource("1_133ty")
+name = &"Stellar Starliner"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_wk4tk"]
 script = ExtResource("1_133ty")
+name = &"Scrapper"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_7y4tb"]
 script = ExtResource("1_133ty")
+name = &"Peacekeeper"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_m0cdw"]
 script = ExtResource("1_133ty")
+name = &"Symbiotic Warden"
+card_type = &"Catalyst"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_nq84e"]
 script = ExtResource("1_133ty")
+name = &"Desert Core"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_wnnxy"]
 script = ExtResource("1_133ty")
+name = &"Dreamstate Core"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_4udba"]
 script = ExtResource("1_133ty")
+name = &"Eden Core"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_mkof7"]
 script = ExtResource("1_133ty")
+name = &"Symbiotic Recovery"
+card_type = &"Catalyst"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_vbfui"]
 script = ExtResource("1_133ty")
+name = &"Symbiotic Supporter"
+card_type = &"Catalyst"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_ols7l"]
 script = ExtResource("1_133ty")
+name = &"Epyphytic Core"
+card_type = &"Monolith"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_q7att"]
 script = ExtResource("1_133ty")
+name = &"Startup Engine"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_eenpe"]
 script = ExtResource("1_133ty")
+name = &"Tesserect Core"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_3ykp2"]
 script = ExtResource("1_133ty")
+name = &"Offering to Ancients"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_65q36"]
 script = ExtResource("1_133ty")
+name = &"Security"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_ecuvw"]
 script = ExtResource("1_133ty")
+name = &"Crash Site"
+card_type = &"Monolith"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_q3f04"]
 script = ExtResource("1_133ty")
+name = &"Quick Armorment"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_jffwu"]
 script = ExtResource("1_133ty")
+name = &"Forest of rebirth"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_2uhaq"]
 script = ExtResource("1_133ty")
+name = &"Flashpoint"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_whd3s"]
 script = ExtResource("1_133ty")
+name = &"Maiden of the Underdark"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_mav1e"]
 script = ExtResource("1_133ty")
+name = &"Twilight Reaper"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_3s8wj"]
 script = ExtResource("1_133ty")
+name = &"Twilight Shamen"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_rxh6y"]
 script = ExtResource("1_133ty")
+name = &"Beast of the Netherrealm"
+card_type = &"Unit"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_2amwa"]
 script = ExtResource("1_133ty")
+name = &"Eternal Autumn"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_q8i5j"]
 script = ExtResource("1_133ty")
+name = &"Underdark Guide"
+card_type = &"Unit"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_1nkbb"]
 script = ExtResource("1_133ty")
+name = &"Penumbral Witch"
+card_type = &"Unit"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_siruh"]
 script = ExtResource("1_133ty")
+name = &"Savannah"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_gibdu"]
 script = ExtResource("1_133ty")
+name = &"The Night Owl"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_3lfta"]
 script = ExtResource("1_133ty")
+name = &"Keystone Seer"
+card_type = &"Catalyst"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_8y3nn"]
 script = ExtResource("1_133ty")
+name = &"Ancient Technology"
+card_type = &"Catalyst"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_j3oj1"]
 script = ExtResource("1_133ty")
+name = &"Soulless Warden"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_pw13v"]
 script = ExtResource("1_133ty")
+name = &"The First Gate"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_tnl21"]
 script = ExtResource("1_133ty")
+name = &"Core of Beginning"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_wv1no"]
 script = ExtResource("1_133ty")
+name = &"Angelwood Horror"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_n3ojf"]
 script = ExtResource("1_133ty")
+name = &"Plague Tyrant"
+card_type = &"Unit"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_5kmwn"]
 script = ExtResource("1_133ty")
+name = &"Underdark Dreamer"
+card_type = &"Unit"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_t46hk"]
 script = ExtResource("1_133ty")
+name = &"Freight Vessel"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_a35ww"]
 script = ExtResource("1_133ty")
+name = &"Solomon Kain"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_050eb"]
 script = ExtResource("1_133ty")
+name = &"The Executioner"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_g4j75"]
 script = ExtResource("1_133ty")
+name = &"Forbidden Knowledge"
+card_type = &"Catalyst"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_bmcdu"]
 script = ExtResource("1_133ty")
+name = &"Seed of the Syndicate"
+card_type = &"Token"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_2cm12"]
 script = ExtResource("1_133ty")
+name = &"Corrupter"
+card_type = &"Token"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_p5bfu"]
 script = ExtResource("1_133ty")
+name = &"Oblivions Mound"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_1wjat"]
 script = ExtResource("1_133ty")
+name = &"Aethers Mound"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_y2njq"]
 script = ExtResource("1_133ty")
+name = &"Fort Octane"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_t2jep"]
 script = ExtResource("1_133ty")
+name = &"Crimson Covert"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_dlgxg"]
 script = ExtResource("1_133ty")
+name = &"Static Cluster"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_fldo5"]
 script = ExtResource("1_133ty")
+name = &"Creep Cluster"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_kkp27"]
 script = ExtResource("1_133ty")
+name = &"Nightmarish Ruins"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Octane"
 
 [sub_resource type="Resource" id="Resource_21rlp"]
 script = ExtResource("1_133ty")
+name = &"Seedy Market"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_rcr6t"]
 script = ExtResource("1_133ty")
+name = &"Hiveminds Power"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_mgvci"]
 script = ExtResource("1_133ty")
+name = &"Blood Moon"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_ha4fr"]
 script = ExtResource("1_133ty")
+name = &"Symbiotic Mercenary"
+card_type = &"catalyst"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_l7x2r"]
 script = ExtResource("1_133ty")
+name = &"Geothermal Core"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_8yc62"]
 script = ExtResource("1_133ty")
+name = &"Eclipse Peak"
+card_type = &"Monolith"
+card_nation = &"Lunas"
+card_guild = "Underdark"
 
 [sub_resource type="Resource" id="Resource_dmppe"]
 script = ExtResource("1_133ty")
-name = &"fdsfsd"
-card_type = &"fsdfdsf"
-card_nation = &"asac"
-card_guild = "asc"
-card_class = "cbghf"
-grade = "vcva"
-atk = "12"
+name = &"Northern Light"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_6he1s"]
 script = ExtResource("1_133ty")
+name = &"Sakura Cloudtops"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_oxi7a"]
 script = ExtResource("1_133ty")
+name = &"Solis Infernum"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_rn4ah"]
 script = ExtResource("1_133ty")
+name = &"Gateway of Ruination"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_stgpp"]
 script = ExtResource("1_133ty")
+name = &"Empty Expanse"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_o3woo"]
 script = ExtResource("1_133ty")
+name = &"Wildlands"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_ekj1m"]
 script = ExtResource("1_133ty")
+name = &"Prime Origin"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_2rxal"]
 script = ExtResource("1_133ty")
+name = &"Sublime Depths"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_dl1as"]
 script = ExtResource("1_133ty")
+name = &"Foundations"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_7hmhv"]
 script = ExtResource("1_133ty")
+name = &"Gravitas Alter"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_3e8i3"]
 script = ExtResource("1_133ty")
+name = &"Protectorate"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_4ocka"]
 script = ExtResource("1_133ty")
+name = &"Little Sailor"
+card_type = &"catalyst"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_ftu6k"]
 script = ExtResource("1_133ty")
+name = &"Starcatchers"
+card_type = &"catalyst"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_xhhfs"]
 script = ExtResource("1_133ty")
+name = &"Porcelain Painters"
+card_type = &"catalyst"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_ogibc"]
 script = ExtResource("1_133ty")
+name = &"The Northern Warchief"
+card_type = &"catalyst"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_iurju"]
 script = ExtResource("1_133ty")
+name = &"Sentinel of Dawn"
+card_type = &"catalyst"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_iytlc"]
 script = ExtResource("1_133ty")
+name = &"Sentinel of Dusk"
+card_type = &"catalyst"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_8b4hv"]
 script = ExtResource("1_133ty")
+name = &"Sentinel of Judgement"
+card_type = &"catalyst"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_t34yt"]
 script = ExtResource("1_133ty")
+name = &"Sentinel of Torrent"
+card_type = &"catalyst"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_5dr1i"]
 script = ExtResource("1_133ty")
+name = &"The Evergiving"
+card_type = &"FieldSpell"
 
 [sub_resource type="Resource" id="Resource_ctipm"]
 script = ExtResource("1_133ty")
+name = &"Emanation of Spring"
+card_type = &"Unit"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_3oful"]
 script = ExtResource("1_133ty")
+name = &"Emanation of War"
+card_type = &"Unit"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_j6748"]
 script = ExtResource("1_133ty")
+name = &"Emanation of Strife"
+card_type = &"Unit"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_pj1j2"]
 script = ExtResource("1_133ty")
+name = &"Emanation of Shadow"
+card_type = &"Unit"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_qr7dm"]
 script = ExtResource("1_133ty")
+name = &"Mausoleum of Hope"
+card_type = &"Monolith"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_wlnvn"]
 script = ExtResource("1_133ty")
+name = &"North Gate"
+card_type = &"Monolith"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_grr85"]
 script = ExtResource("1_133ty")
+name = &"Profound Wisdom"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_2k48f"]
 script = ExtResource("1_133ty")
+name = &"Celestial Birth"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_tswkd"]
 script = ExtResource("1_133ty")
+name = &"Gravesend Sorcerer"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_nvv31"]
 script = ExtResource("1_133ty")
+name = &"Dark Alley Dealer"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_koo2r"]
 script = ExtResource("1_133ty")
+name = &"Driftwood Cathedral"
+card_type = &"Monolith"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_iq3sg"]
 script = ExtResource("1_133ty")
+name = &"Fragile Heart"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_e3jav"]
 script = ExtResource("1_133ty")
+name = &"War’s Repose"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_h85dj"]
 script = ExtResource("1_133ty")
+name = &"Uncertain Ambitions"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_l1qu3"]
 script = ExtResource("1_133ty")
+name = &"The Iron Maiden"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_1urir"]
 script = ExtResource("1_133ty")
+name = &"Final Hour"
+card_type = &"Catalyst"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_iapqr"]
 script = ExtResource("1_133ty")
+name = &"Meadowsweet"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_186eg"]
 script = ExtResource("1_133ty")
+name = &"Sacrosanct"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_e04rs"]
 script = ExtResource("1_133ty")
+name = &"Fallingwater"
+card_type = &"Monolith"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_bya42"]
 script = ExtResource("1_133ty")
+name = &"Hillcrest Forerunner"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_0sa83"]
 script = ExtResource("1_133ty")
+name = &"Matriarchs Blessing"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_jybna"]
 script = ExtResource("1_133ty")
+name = &"Dragons Divinate"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_jt046"]
 script = ExtResource("1_133ty")
+name = &"The Unsanctioned"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_qgfqp"]
 script = ExtResource("1_133ty")
+name = &"Stellar Grimoire"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Pristine Shores"
 
 [sub_resource type="Resource" id="Resource_x3htj"]
 script = ExtResource("1_133ty")
+name = &"Crystal Fields"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Pristine Shores"
 
 [sub_resource type="Resource" id="Resource_qqula"]
 script = ExtResource("1_133ty")
+name = &"Castle Stratum"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Pristine Shores"
 
 [sub_resource type="Resource" id="Resource_arh2f"]
 script = ExtResource("1_133ty")
+name = &"Shoreline"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Pristine Shores"
 
 [sub_resource type="Resource" id="Resource_nxtga"]
 script = ExtResource("1_133ty")
+name = &"Heart-Heist"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Gravesend"
 
 [sub_resource type="Resource" id="Resource_3e5q3"]
 script = ExtResource("1_133ty")
+name = &"Heart-Eater"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Gravesend"
 
 [sub_resource type="Resource" id="Resource_30rmi"]
 script = ExtResource("1_133ty")
+name = &"Lake Vulcas"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Vulcas"
 
 [sub_resource type="Resource" id="Resource_pgymh"]
 script = ExtResource("1_133ty")
+name = &"Hidden Cove"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Vulcas"
 
 [sub_resource type="Resource" id="Resource_yk6pn"]
 script = ExtResource("1_133ty")
+name = &"Eon Monument"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Havnis"
 
 [sub_resource type="Resource" id="Resource_on5qe"]
 script = ExtResource("1_133ty")
+name = &"Ravager Point"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Vulcas"
 
 [sub_resource type="Resource" id="Resource_wrcb6"]
 script = ExtResource("1_133ty")
+name = &"Somber Cell"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Havnis"
 
 [sub_resource type="Resource" id="Resource_wjk1x"]
 script = ExtResource("1_133ty")
+name = &"Mountain Ruins"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Havnis"
 
 [sub_resource type="Resource" id="Resource_qru5x"]
 script = ExtResource("1_133ty")
+name = &"Boiling Lake"
+card_type = &"Monolith"
+card_nation = &"Nomadic"
+card_guild = "Vulcas"
 
 [sub_resource type="Resource" id="Resource_pl06m"]
 script = ExtResource("1_133ty")
+name = &"Spawning Pool"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_bl40g"]
 script = ExtResource("1_133ty")
+name = &"Dying Light"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_fubhu"]
 script = ExtResource("1_133ty")
+name = &"Knight of Dawn"
+card_type = &"Catalyst"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_isymo"]
 script = ExtResource("1_133ty")
+name = &"Inkwell Wolf"
+card_type = &"Catalyst"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_s10mo"]
 script = ExtResource("1_133ty")
+name = &"Mountainreaver"
+card_type = &"Catalyst"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_dol0h"]
 script = ExtResource("1_133ty")
+name = &"Beacon of Drenas"
+card_type = &"Catalyst"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_58aou"]
 script = ExtResource("1_133ty")
+name = &"Tacit Trees"
+card_type = &"Monolith"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_hrm6a"]
 script = ExtResource("1_133ty")
+name = &"Oathkeeper"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_feylp"]
 script = ExtResource("1_133ty")
+name = &"Sacred Samurai"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_mrktj"]
 script = ExtResource("1_133ty")
+name = &"Child of Light"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_0rbqv"]
 script = ExtResource("1_133ty")
+name = &"Downstream Demon"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_p8mce"]
 script = ExtResource("1_133ty")
+name = &"Divine Composition"
+card_type = &"Equip"
 
 [sub_resource type="Resource" id="Resource_xbski"]
 script = ExtResource("1_133ty")
+name = &"Prescision Strike"
+card_type = &"QuickPlay"
 
 [sub_resource type="Resource" id="Resource_d3ref"]
 script = ExtResource("1_133ty")
+name = &"Cosmic Oxen"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_3tysq"]
 script = ExtResource("1_133ty")
+name = &"Upstream Demon"
+card_type = &"Unit"
+card_nation = &"Duskmar"
+card_guild = "Drenas"
 
 [sub_resource type="Resource" id="Resource_3ravd"]
 script = ExtResource("1_133ty")
+name = &"Blood Pact"
+card_type = &"Spell"
 
 [sub_resource type="Resource" id="Resource_jyra4"]
 script = ExtResource("1_133ty")
+name = &"Knight of Valor"
+card_type = &"Unit"
+card_nation = &"Memorex"
+card_guild = "Divinity"
 
 [sub_resource type="Resource" id="Resource_ootyt"]
 script = ExtResource("1_133ty")
+name = &"Prowler"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Auroreon"
 
 [sub_resource type="Resource" id="Resource_bf053"]
 script = ExtResource("1_133ty")
+name = &"Synthetic Organics"
+card_type = &"Unit"
+card_nation = &"Araadia"
+card_guild = "Actinium"
 
 [sub_resource type="Resource" id="Resource_qemxj"]
 script = ExtResource("1_133ty")
+name = &"Subspace Tamer"
+card_type = &"Unit"
+card_nation = &"Nomadic"
+card_guild = "Nomadic"
 
 [sub_resource type="Resource" id="Resource_krqu4"]
 script = ExtResource("1_133ty")
+name = &"Emanation of Charity"
+card_type = &"Unit"
+card_nation = &"Vista Isles"
+card_guild = "North Keep"
 
 [sub_resource type="Resource" id="Resource_nep6e"]
 script = ExtResource("1_133ty")
+name = &"Magna Regina"
+card_type = &"Unit"
+card_nation = &"Cerulia"
+card_guild = "Hillcrest"
 
 [sub_resource type="Resource" id="Resource_q0s4s"]
 script = ExtResource("1_133ty")
+name = &"Guiding Fledgeling"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_hw16a"]
 script = ExtResource("1_133ty")
+name = &"Wading Waters"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_qw6gf"]
 script = ExtResource("1_133ty")
+name = &"Guiding Swan"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_4j1d2"]
 script = ExtResource("1_133ty")
+name = &"Guiding Feline"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_sjee8"]
 script = ExtResource("1_133ty")
+name = &"Serene Seasons"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_pvc5a"]
 script = ExtResource("1_133ty")
+name = &"Fabled Encounter"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_nqjlr"]
 script = ExtResource("1_133ty")
+name = &"Knowledge Seeker"
+card_type = &"Union"
+card_nation = &"Shanti"
+card_guild = "Oasis"
 
 [sub_resource type="Resource" id="Resource_fr64p"]
 script = ExtResource("1_133ty")
+name = &"Scrap Machine"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_sa3yc"]
 script = ExtResource("1_133ty")
+name = &"Scrap Hunter"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_v12af"]
 script = ExtResource("1_133ty")
+name = &"Scrap Mechanic"
+card_type = &"Unit"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_xgm0y"]
 script = ExtResource("1_133ty")
+name = &"Citadel"
+card_type = &"Monolith"
+card_nation = &"Wastelands"
+card_guild = "Symbiotic"
 
 [sub_resource type="Resource" id="Resource_meb31"]
 script = ExtResource("1_133ty")
+name = &"Seabreeze"
 
 [resource]
 script = ExtResource("2_fj7yp")
